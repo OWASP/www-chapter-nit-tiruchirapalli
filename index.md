@@ -1,5 +1,6 @@
 
----layout: col-sidebar
+---
+layout: col-sidebar
 
 title: OWASP NIT-Tiruchirapalli - Student Chapter
 tags: example-tag
