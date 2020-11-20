@@ -1,9 +1,16 @@
 ---
 
 layout: col-sidebar
-title: OWASP NIT - Tiruchirapalli
+
+title: OWASP NIT - Tiruchirapalli - Student Chapter
 tags: Past Events
+level: 0
+
 region: Asia
+
+meetup-group: OWASP-NIT-Tiruchirappalli-Student-Chapter
+country: India
+postal-code: 
 
 ---
 <img src="assets/images/logo-main.gif"/>
