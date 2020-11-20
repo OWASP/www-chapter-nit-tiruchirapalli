@@ -1,11 +1,13 @@
-
 ---
+
 layout: col-sidebar
 
 title: OWASP NIT-Tiruchirapalli - Student Chapter
 tags: example-tag
 level: 0
+
 region: Asia
+
 meetup-group: OWASP-NIT-Tiruchirappalli-Student-Chapter
 country: India
 postal-code: 
