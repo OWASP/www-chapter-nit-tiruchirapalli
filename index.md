@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 
-title: OWASP NIT - Tiruchirapalli - Student Chapter
+title: OWASP NIT-Tiruchirapalli - Student Chapter
 tags: Past Events
 level: 0
 
