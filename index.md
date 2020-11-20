@@ -6,7 +6,7 @@ tags: Past Events
 region: Asia
 
 ---
-<img src="assets/images/logo-small.jpg"/>
+<img src="assets/images/logo-main.gif"/>
 
 # Welcome
 Welcome to the homepage of the NIT-Trichy chapter. This student chapter came into existence towards the end of 2019 thanks to the efforts of 5 cybersecurity enthusiasts in their final year of college. 
